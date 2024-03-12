@@ -1,0 +1,79 @@
+body{
+	
+	margin: 0;
+
+}
+li{
+	list-style: none;
+	float: left;
+	padding: 5px 50px;
+}
+
+
+img{
+border-radius: 10px;
+width: 75px;
+padding: 0px 40px;
+float: left;
+}
+
+
+
+.header{
+	background-color: skyblue;
+	height: 70px;
+	padding: 10px 10px;
+
+}
+.header-logo{
+	float: left;
+ 	padding: 30px;
+}
+.header-list{
+	float:right;
+	padding: 10px 100px;
+
+}
+button{
+	background-color: skyblue;
+	float: right;
+}
+button:hover{
+	transition: 0.5s;
+	background-color: skyblue;
+}
+.bodys{
+
+	height: 950px;
+	background:url("img/gw.png") no-repeat;
+	width: 1310px;
+	height: 1000px;
+	padding: 10px 20px;
+
+}
+.bodys-text{
+	text-align: center;
+	padding: 0px 30px;
+	color: whitesmoke;
+}
+
+
+input{
+	width:350px;
+	height: 25px;
+}
+
+.footer{
+	height: 90px;
+	background-color:darkgrey ;
+}
+
+.footer-logo{
+padding: 0px 20px;
+}
+
+.footer-list{
+	float: right;
+	padding: 10px 20px;
+
+}
